@@ -88,11 +88,11 @@ Busco constantemente melhorar minhas habilidades e evoluir como profissional, se
             <section id="contato" className="contato">
                 <hr />
                 <h2>Entre em contato</h2>
-                <form action="#" netlify method="post">
-                    <input type="text" placeholder="Nome" name='Nome:'/>
-                    <input type="email" placeholder="Email" name='Email:'/>
-                    <input type="tel" placeholder="Telefone" name='Telefone:'/>
-                    <textarea name="Mensagem:" id="" cols="30" rows="10" placeholder="Mensagem"></textarea>
+                <form action="#" name="Entre em contato" data-netlify="true" method="post">
+                    <input type="text" placeholder="Nome" name='Nome:' id='Nome:'/>
+                    <input type="email" placeholder="Email" name='Email:' id='Email:'/>
+                    <input type="tel" placeholder="Telefone" name='Telefone:' id='Telefone:'/>
+                    <textarea name="Mensagem:" id="Mensagem" cols="30" rows="10" placeholder="Mensagem"></textarea>
                     <input type="submit" value="Enviar" />
                 </form>
             </section>
