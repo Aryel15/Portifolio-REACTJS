@@ -37,9 +37,10 @@ export function Home() {
                 <div className="text">
                     <hr/>
                         <h2>Quem sou</h2>
-                        <p>Meu nome é Aryel Anne, tenho 17 anos e moro na Zona leste de São Paulo. Me formei no ensino médio e técnico em Comunicação Visual na ETEC Tiquatira, e fiz um curso de programação front-end na escola “Start profissões e idiomas”. Atualmente estou cursando o primeiro semestre de Desenvolvimento de Software Multiplataforma na Fatec Zona Leste.
+                        <p>Meu nome é Aryel Anne, tenho 18 anos e moro na Zona leste de São Paulo. Me formei no ensino médio e técnico em Comunicação Visual na ETEC Tiquatira, e fiz um curso de programação front-end na escola “Start profissões e idiomas”. Atualmente estou cursando o segundo semestre de Desenvolvimento de Software Multiplataforma na Fatec Zona Leste.
                         <br/>
-                        Tenho conhecimento em Photoshop, Illustrator, Corel Draw, Excel, e nas linguagens de programação e marcação HTML, CSS e PHP. Trabalho com design para mídias sociais, criação de interfaces web e desenvolvimento de sites.</p>
+                        Tenho conhecimento em ferramentas de criação e edição de imagens, Excel, e nas linguagens de programação e marcação HTML, CSS, JAVASCRIPT, JAVA, REACTJS e NODEJS.
+Busco constantemente melhorar minhas habilidades e evoluir como profissional, sempre procuro aprender coisas novas e me dedico totalmente em todos os meus projetos.</p>
                 </div>
                 <img src='/imgs/eu.jpg' alt=""/>
             </section>
