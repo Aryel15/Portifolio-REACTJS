@@ -88,7 +88,7 @@ Busco constantemente melhorar minhas habilidades e evoluir como profissional, se
             <section id="contato" className="contato">
                 <hr />
                 <h2>Entre em contato</h2>
-                <form action="#" name="Entre em contato" data-netlify="true" method="post">
+                <form action="/" name="Entre em contato" data-netlify="true" method="post">
                     <input type="text" placeholder="Nome" name='Nome:' id='Nome:'/>
                     <input type="email" placeholder="Email" name='Email:' id='Email:'/>
                     <input type="tel" placeholder="Telefone" name='Telefone:' id='Telefone:'/>
