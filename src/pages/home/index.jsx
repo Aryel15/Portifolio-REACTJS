@@ -87,7 +87,7 @@ export function Home() {
             <section id="contato" className="contato">
                 <hr />
                 <h2>Entre em contato</h2>
-                <form action="" method="post">
+                <form action="#" netlify method="post">
                     <input type="text" placeholder="Nome" name='Nome:'/>
                     <input type="email" placeholder="Email" name='Email:'/>
                     <input type="tel" placeholder="Telefone" name='Telefone:'/>
