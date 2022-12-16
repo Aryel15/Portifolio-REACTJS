@@ -1,0 +1,17 @@
+.posts{
+    margin-top: 50px;
+    width: 80vw;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+.posts img{
+    width: 200px;
+    transition: 0.7s all;
+}
+.posts img:hover{
+    cursor:zoom-in;
+    transform: scale(2);
+}

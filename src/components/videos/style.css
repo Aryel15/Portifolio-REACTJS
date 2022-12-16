@@ -1,0 +1,13 @@
+.videos{
+    margin-top: 50px;
+    width: 80vw;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+.videos video{
+    max-width: 200px;
+    transition: 0.7s all;
+}

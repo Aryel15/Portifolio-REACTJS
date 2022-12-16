@@ -1,0 +1,29 @@
+.sites{
+    margin-top: 50px;
+    width: 80vw;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+.sites a img{
+    width: 300px;
+    transition: 0.7s all;
+    border-radius: 5px;
+    box-shadow: 0px 3px 5px #14002d5f;
+
+}
+.sites a img:hover{
+    cursor:pointer;
+    filter:brightness(0.5);
+}
+.sites a{
+    transition: 0.7s all;
+    display:flex;
+    flex-direction:column;
+    color: white;
+}
+.sites a:hover{
+    color:rgb(151, 151, 151);
+}
