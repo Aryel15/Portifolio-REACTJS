@@ -30,7 +30,7 @@ export function Home() {
             <main className="title">
                 <Menu />
                 <h1 className="typedtext">Web Design</h1>
-                <a href="#contato" className="neon-btn">Entre em contato!</a><br/>
+                <a href="#footer" className="neon-btn">Entre em contato!</a><br/>
                 <a href="#quemsou" className="seta"><i className="fa-solid fa-chevron-down"></i></a>
             </main>
             <section className="quemsou" id="quemsou">
@@ -99,7 +99,7 @@ Busco constantemente melhorar minhas habilidades e evoluir como profissional, se
             <div className="up">
                 <a href="#"><i className="fa-solid fa-circle-chevron-up"></i></a>
             </div>
-            <footer>
+            <footer id="footer">
                 <div className="links">
                     <a className="nav-link" href="https://instagram.com/aryel.anne"><i className="fa-brands fa-instagram"></i></a>
                     <a className="nav-link" href="https://api.whatsapp.com/send/?phone=5511951926732&text&app_absent=0"><i className="fa-brands fa-whatsapp"></i></a>
