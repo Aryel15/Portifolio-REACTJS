@@ -85,7 +85,7 @@ Busco constantemente melhorar minhas habilidades e evoluir como profissional, se
                     {mostraSite ? <Sites /> : null}
                     {mostraVideo ? <Videos /> : null}
             </section>
-            <section id="contato" className="contato">
+            {/*<section id="contato" className="contato">
                 <hr />
                 <h2>Entre em contato</h2>
                 <form action="https://aryelanne.ga" name="Contato" data-netlify="true" method="POST">
@@ -95,7 +95,7 @@ Busco constantemente melhorar minhas habilidades e evoluir como profissional, se
                     <textarea name="Mensagem:" id="Mensagem" cols="30" rows="10" placeholder="Mensagem"></textarea>
                     <input type="submit" value="Enviar" />
                 </form>
-            </section>
+            </section>*/}
             <div className="up">
                 <a href="#"><i className="fa-solid fa-circle-chevron-up"></i></a>
             </div>
