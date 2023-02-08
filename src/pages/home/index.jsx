@@ -29,7 +29,7 @@ export function Home() {
         <>
             <main className="title">
                 <Menu />
-                <h1 className="typedtext">Web Design</h1>
+                <h1 className="typedtext">Desenvolvimento Front-End</h1>
                 <a href="#footer" className="neon-btn">Entre em contato!</a><br/>
                 <a href="#quemsou" className="seta"><i className="fa-solid fa-chevron-down"></i></a>
             </main>
