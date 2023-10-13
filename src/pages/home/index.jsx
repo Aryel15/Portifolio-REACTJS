@@ -37,9 +37,9 @@ export function Home() {
                 <div className="text">
                     <hr/>
                         <h2>Quem sou</h2>
-                        <p>Meu nome é Aryel Anne, tenho 18 anos e moro na Zona leste de São Paulo. Me formei no ensino médio e técnico em Comunicação Visual na ETEC Tiquatira, e fiz um curso de programação front-end na escola “Start profissões e idiomas”. Atualmente estou cursando o segundo semestre de Desenvolvimento de Software Multiplataforma na Fatec Zona Leste.
+                        <p>Meu nome é Aryel Anne, tenho 19 anos e moro na Zona leste de São Paulo. Me formei no ensino médio e técnico em Comunicação Visual na ETEC Tiquatira, e fiz um curso de programação front-end na escola “Start profissões e idiomas”. Atualmente estou cursando o quarto semestre de Desenvolvimento de Software Multiplataforma na Fatec Zona Leste.
                         <br/>
-                        Tenho conhecimento em ferramentas de criação e edição de imagens, Excel, e nas linguagens de programação e marcação HTML, CSS, JAVASCRIPT, JAVA, REACTJS e NODEJS.
+                        Tenho conhecimento em ferramentas de criação e edição de imagens, e nas linguagens de programação e marcação HTML, CSS, JAVASCRIPT, JAVA, REACTJS e NODEJS.
 Busco constantemente melhorar minhas habilidades e evoluir como profissional, sempre procuro aprender coisas novas e me dedico totalmente em todos os meus projetos.</p>
                 </div>
                 <img src='/imgs/eu.jpg' alt=""/>
@@ -85,17 +85,12 @@ Busco constantemente melhorar minhas habilidades e evoluir como profissional, se
                     {mostraSite ? <Sites /> : null}
                     {mostraVideo ? <Videos /> : null}
             </section>
-            {/*<section id="contato" className="contato">
-                <hr />
-                <h2>Entre em contato</h2>
-                <form action="https://aryelanne.ga" name="Contato" data-netlify="true" method="POST">
-                    <input type="text" placeholder="Nome" name='Nome:' id='Nome:'/>
-                    <input type="email" placeholder="Email" name='Email:' id='Email:'/>
-                    <input type="tel" placeholder="Telefone" name='Telefone:' id='Telefone:'/>
-                    <textarea name="Mensagem:" id="Mensagem" cols="30" rows="10" placeholder="Mensagem"></textarea>
-                    <input type="submit" value="Enviar" />
-                </form>
-            </section>*/}
+            <section className="curriculo" id="curriculo">
+                <hr/>
+                    <h2>Currículo</h2>
+                    <a href="https://drive.google.com/file/d/1UdWGeHot0J_Wq05k_5EX_OVfrwy9xowN/view?usp=drive_link" 
+                    className="curriculo-btn" target='_blank'>Currículo</a><br/>
+            </section>
             <div className="up">
                 <a href="#"><i className="fa-solid fa-circle-chevron-up"></i></a>
             </div>
