@@ -12,7 +12,7 @@
     cursor: pointer;
 }
 .logo{
-    width: 150px;
+    width: 120px;
     transition: all 0.7s;
 }
 .logo:hover{
