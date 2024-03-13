@@ -174,6 +174,16 @@ hr{
     font-size: 50px;
     margin: 15px 15px;
     transition: 0.7s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+.skill .fa-brands span{
+    font-size: .5rem;
+    text-align: center;
+    line-height: .8rem;
 }
 .skill .fa-brands:hover{
     transform: scale(1.7, 1.7);
@@ -196,6 +206,10 @@ hr{
     filter: drop-shadow(0px 0px 5px #00b3ff);
     color: #00b3ff;
 }
+.skill .react-native:hover{
+    filter: drop-shadow(0px 0px 5px #c5eeff);
+    color: #c5eeff;
+}
 .skill .fa-square-js:hover{
     filter: drop-shadow(0px 0px 5px #f0db4f);
     color: #f0db4f;
@@ -204,9 +218,13 @@ hr{
     filter: drop-shadow(0px 0px 5px #a76dff);
     color: #a76dff;
 }
-.skill .fa-node:hover{
+.skill .fa-node-js:hover{
     filter: drop-shadow(0px 0px 5px #32ff4a);
     color: #32ff4a;
+}
+.skill .fa-vuejs:hover{
+    filter: drop-shadow(0px 0px 5px #00cc96);
+    color: #00cc96;
 }
 .skill .fa-java{
     margin-left: 30px;
@@ -214,6 +232,10 @@ hr{
 .skill .fa-java:hover{
     filter: drop-shadow(0px 0px 5px #db2b2c);
     color: #db2b2c;
+}
+.skill .fa-figma:hover{
+    filter: drop-shadow(0px 0px 5px #ff4949);
+    color: #ff4949;
 }
 
 .projetos{

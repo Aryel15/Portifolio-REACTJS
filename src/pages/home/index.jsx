@@ -37,9 +37,9 @@ export function Home() {
                 <div className="text">
                     <hr/>
                         <h2>Quem sou</h2>
-                        <p>Meu nome é Aryel Anne, tenho 19 anos e moro na Zona leste de São Paulo. Me formei no ensino médio e técnico em Comunicação Visual na ETEC Tiquatira, e fiz um curso de programação front-end na escola “Start profissões e idiomas”. Atualmente estou cursando o quarto semestre de Desenvolvimento de Software Multiplataforma na Fatec Zona Leste.
+                        <p>Meu nome é Aryel Anne, tenho 19 anos e moro na Zona leste de São Paulo. Me formei no ensino médio e técnico em Comunicação Visual na ETEC Tiquatira, e fiz um curso de programação front-end na escola “Start profissões e idiomas”. Atualmente estou cursando o quinto semestre de Desenvolvimento de Software Multiplataforma na Fatec Zona Leste.
                         <br/>
-                        Tenho conhecimento em ferramentas de criação e edição de imagens, e nas linguagens de programação e marcação HTML, CSS, JAVASCRIPT, JAVA, REACTJS e NODEJS.
+                        Tenho conhecimento em ferramentas de criação e edição de imagens, e nas linguagens de programação e marcação HTML, CSS, JAVASCRIPT, JAVA, REACTJS, VUEJS, REACT NATIVE e NODEJS.
 Busco constantemente melhorar minhas habilidades e evoluir como profissional, sempre procuro aprender coisas novas e me dedico totalmente em todos os meus projetos.</p>
                 </div>
                 <img src='/imgs/eu.jpg' alt=""/>
@@ -48,13 +48,15 @@ Busco constantemente melhorar minhas habilidades e evoluir como profissional, se
                 <hr/>
                     <h2>Skills</h2>
                     <div className="skill">
-                        <i className="fa-brands fa-html5"></i>
-                        <i className="fa-brands fa-css3-alt"></i>
-                        <i className="fa-brands fa-square-js"></i>
-                        <i className="fa-brands fa-bootstrap"></i>
-                        <i className="fa-brands fa-java"></i>
-                        <i className="fa-brands fa-node"></i>
-                        <i className="fa-brands fa-react"></i>
+                        <i className="fa-brands fa-html5" title='HTML'><span>HTML</span></i>
+                        <i className="fa-brands fa-css3-alt" title='CSS'><span>CSS</span></i>
+                        <i className="fa-brands fa-square-js" title='Javascript'><span>Javascript</span></i>
+                        <i className="fa-brands fa-java" title='JAVA'><span>JAVA</span></i>
+                        <i className="fa-brands fa-node-js" title='Node JS'><span>Node JS</span></i>
+                        <i className="fa-brands fa-react" title='React JS'><span>React JS</span></i>
+                        <i class="fa-brands fa-vuejs" title='Vue JS'><span>Vue JS</span></i>
+                        <i className="fa-brands fa-react react-native" title='React Native'><span>React Native</span></i>
+                        <i class="fa-brands fa-figma" title='Figma'><span>Figma</span></i>
                     </div>
             </section>
             <section className="projetos" id="projetos">
