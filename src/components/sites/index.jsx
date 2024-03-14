@@ -46,6 +46,13 @@ export default function Sites() {
       skills: ['html5', 'css3', 'javascript']
     },
     {
+      nome:"Anime Central",
+      link:"https://anime-central-react-js-node-js.vercel.app/",
+      image: '12.png',
+      repo: "https://github.com/Aryel15/AnimeCentral---ReactJS-NodeJS",
+      skills: ['react', 'css3', 'node-js']    
+    },
+    {
       nome:"To do List",
       link:"https://to-do-list-snowy-kappa.vercel.app/",
       image: '11.png',

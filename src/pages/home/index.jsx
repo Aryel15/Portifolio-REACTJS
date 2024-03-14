@@ -90,7 +90,7 @@ Busco constantemente melhorar minhas habilidades e evoluir como profissional, se
             <section className="curriculo" id="curriculo">
                 <hr/>
                     <h2>Currículo</h2>
-                    <a href="https://drive.google.com/file/d/17dzRcjfXvNUpg2weGKNotdhgFQKaebxz/view?usp=drive_link" 
+                    <a href="https://drive.google.com/file/d/1RWkCRFtn2x6QLiemDLax8gY86MoGTjAD/view?usp=sharing" 
                     className="curriculo-btn" target='_blank'>Currículo</a><br/>
             </section>
             <div className="up">
