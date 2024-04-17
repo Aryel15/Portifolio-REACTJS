@@ -69,7 +69,7 @@ export default function Sites() {
     {
       nome:"Florescer o livro negro da morte",
       link:"https://florescerolivronegrodamorte.netlify.app",
-      image: '3.png',
+      image: 'Florescer-o-Livro-Negro-da-Morte.png',
       repo: "https://github.com/Aryel15/Site-Florescer",
       skills: ['hmtl5', 'css3']
     },
